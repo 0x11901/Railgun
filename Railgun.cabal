@@ -12,7 +12,7 @@ bug-reports:    https://github.com/0x11901/Railgun/issues
 author:         0x11901
 maintainer:     wjk930726@live.com
 copyright:      Copyright (c) 2016-2019 0x11901
-license:        BSD3
+license:        Apache License 2.0
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
